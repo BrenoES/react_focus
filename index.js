@@ -1,3 +1,0 @@
-const matth_pi = () =>{
-    
-}
